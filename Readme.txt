@@ -11,8 +11,9 @@ Read me: -
             Physicochemical properties are retrieved from Meiler's study 
 		Reference:- Generation and evaluation of dimension-reduced amino acid parameter representations by artificial neural networks 
 
-            PSSM and PSFM are computed by DeepMSA: "https://github.com/kad-ecoli/hhsuite2"
-		Reference:- [38]	Zhang, Chengxin, et al. "DeepMSA: constructing deep multiple sequence alignment to improve contact prediction and fold-recognition for distant-homology proteins." Bioinformatics 36.7 (2020): 2105-2112.
+            PSSM and PSFM are computed by DeepMSA: "https://zhanggroup.org/DeepMSA/"
+		Reference:- Zhang, Chengxin, et al. "DeepMSA: constructing deep multiple sequence alignment to improve contact prediction and fold-recognition for   distant-homology proteins." Bioinformatics 36.7 (2020): 2105-2112.
+		Dictionary Secondary Structure Prediction (DSSP) : http://bioinformatica.isa.cnr.it/SUSAN/DSSP-web/ 
 
 3. Model training and testing: - 
     a. Training : open command prompt and move to "My_Project\Training\dist" and run training.exe
